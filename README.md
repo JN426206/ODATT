@@ -34,13 +34,6 @@ W przypadku uczenia modelu YOLOv5x6 użyty został skrypt dostarczony przez plat
 python train.py --img 1280 --epochs 100 --batch 6 --data yolo_dataset.yaml --weights yolov5x.pt --cache --freeze 9
 ```
 
-### Rozpoznawanie obiektów (zawodników i piłki):
-* Detectron2 - https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md   
-* YOLOv5 - https://github.com/ultralytics/yolov5/releases
-
-### Homografia:
-* Narya - https://github.com/DonsetPG/narya#links-to-the-models-and-datasets-from-the-original-paper
-
 ## Instalacja środowiska
 ```bash
 conda create --name ODATT python==3.7
