@@ -62,6 +62,9 @@ conda activate ODATT
 
 ## Dataset
 
+### Przykładowy oznaczony zbiór danych
+[LP_GZ_HOM](https://drive.google.com/file/d/1u-DYGnR_p4xWOnplDEZnyoA9VwWzd_88/view?usp=sharing)
+
 ### SoccerNet
 ```bash
 pip install SoccerNet --upgrade
