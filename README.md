@@ -314,7 +314,7 @@ https://github.com/google-research/football
 Narzędzie ODATT wydane zostało na licencji [Apache 2.0](LICENSE).
 
 ## Autor Narzędzia
-inż. Jan Nowak   
+mgr inż. Jan Nowak   
 email: 95jan.nowak@gmail.com   
 Uniwersytet im. Adama Mickiewicza w Poznaniu   
 Wydział Matematyki i Informatyki   
