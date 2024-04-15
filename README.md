@@ -324,4 +324,4 @@ Przy współpracy z klubem sportowym KKS Lech Poznań
     <img src="images_repo/brands.png"/>
 </p>
 
-Narzedzie stworzone i wykorzystywane na potrzeby przeprowadzenia badań pracy magisterskiej.
+Narzedzie stworzone i wykorzystywane na potrzeby przeprowadzenia badań pracy magisterskiej [Metody wykrywania obiektów na obrazie wideo i ich zastosowanie w analizie nagrań sportowych](426206-6.pdf).
